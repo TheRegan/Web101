@@ -7,15 +7,30 @@ h2{
   color:#0000FF;
   text-align:center;
 }
-div{
+body{
   text-align:center;
   background-color:#999999;
 }
 .container{
+  margin:auto;
   width:1000px;
 }
 .section{
   height:500px;
   width:500px;
   float:left;
+}
+.line{
+  padding:10px;
+}
+.job{
+  height:100px;
+}
+.company{
+  font-size:25px;
+  font-weight:bold;
+}
+.jobtitle{
+  font-size:20px;
+  font-style:italic;
 }
